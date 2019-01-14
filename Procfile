@@ -1,1 +1,1 @@
-web: App deployment:app
+web: unicorn deployment:app
